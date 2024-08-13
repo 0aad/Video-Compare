@@ -1,0 +1,7 @@
+opencv-python
+scikit-image
+numpy
+matplotlib
+pandas
+seaborn
+jinja2
