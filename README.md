@@ -1,6 +1,10 @@
 # Video-Compare
 The project is structured into modular Python scripts, each responsible for a core function in the video comparison pipeline. Here's a breakdown of the main components:
+## 📁 Code Structure
 
+The project is structured into modular Python scripts, each responsible for a core function in the video comparison pipeline. Here's a breakdown of the main components:
+
+```
 Video-Compare/
 ├── extract_frames.py              # Extracts frames from original and recorded videos at a fixed frame rate
 ├── detect_keyframes.py           # Identifies keyframes based on histogram differences across sequential frames
@@ -13,3 +17,6 @@ Video-Compare/
 │   └── recorded_frames/          # Extracted frames from the recorded playback
 ├── output/                       # Stores CSV results, HTML reports, plots, and editable match files
 └── keyframes.json                # Contains metadata for detected keyframes in both videos
+```
+
+
