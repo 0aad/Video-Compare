@@ -1,5 +1,4 @@
 # Video-Compare
-The project is structured into modular Python scripts, each responsible for a core function in the video comparison pipeline. Here's a breakdown of the main components:
 ## 📁 Code Structure
 
 The project is structured into modular Python scripts, each responsible for a core function in the video comparison pipeline. Here's a breakdown of the main components:
